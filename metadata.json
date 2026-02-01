@@ -1,0 +1,7 @@
+{
+  "name": "MemeGenie AI",
+  "description": "An advanced AI-powered meme workstation featuring Magic Caption analysis, AI image editing, and trending templates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
